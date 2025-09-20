@@ -26,7 +26,7 @@ export function SocialProof() {
                     </h2>
                     <p className="text-xl text-muted-foreground">
                         Real feedback from businesses looking for a better
-                        solution
+                        solutio
                     </p>
                 </div>
 
