@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+    font-family: "Clash Display", sans-serif;
+}
+
+.font-primary {
+    font-family: "Clash Display", sans-serif;
+}
+.font-secondary {
+    font-family: "Inter Tight", sans-serif;
+}
+.leading-base {
+    line-height: 1;
+}
